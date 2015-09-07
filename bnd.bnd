@@ -1,0 +1,8 @@
+Bundle-Version: 1.0.0
+Export-Package:  \
+	org.greenscape.core.service
+-buildpath:  \
+	org.greenscape.core.model;version=latest
+	
+javac.source: 1.8
+javac.target: 1.8
